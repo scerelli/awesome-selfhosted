@@ -1118,7 +1118,7 @@ _Related: [Booking and Scheduling](#booking-and-scheduling)_
 - [OpenEMR](https://www.open-emr.org/) - Electronic health records and medical practice management solution. ([Demo](https://www.open-emr.org/demo/), [Source Code](https://github.com/openemr/openemr)) `GPL-3.0` `PHP/Docker`
 - [wger](https://wger.de/) - Web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de/en/dashboard), [Source Code](https://github.com/wger-project/wger)) `AGPL-3.0` `Python/Docker`
 - [Wingfit](https://wingfit.fr) - Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data. ([Demo](https://wingfit.fr/home), [Source Code](https://github.com/itskovacs/wingfit)) `CC-BY-SA-4.0` `Python/Docker`
-
+- [SYNAPS](https://github.com/scerelli/SYNAPS) - Synaps aggregates medical reports, daily lifestyle data, and environmental conditions into a single knowledge graph. Optionally you can link AI model to help you reads the whole picture and finds correlations across domains: not just within them. [Source Code](https://github.com/scerelli/SYNAPS) `CC BY-NC-SA 4.0` `Node/Docker`
 
 ### Human Resources Management (HRM)
 
